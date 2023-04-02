@@ -1,0 +1,89 @@
+import 'package:landflight_agency_dashboard/modele/Abonnes_model.dart';
+
+final allAbonnes = <Abonnes>[
+  const Abonnes(
+      Nom: 'Emma',
+      AgenceFavoris: 'General',
+      BilletsCommandes: 37,
+      TypeUtilisateur: "Normal"),
+  const Abonnes(
+      Nom: 'Max',
+      AgenceFavoris: 'Touristique',
+      BilletsCommandes: 27,
+      TypeUtilisateur: "premium"),
+  const Abonnes(
+      Nom: 'Sarah',
+      AgenceFavoris: 'General',
+      BilletsCommandes: 20,
+      TypeUtilisateur: "premium"),
+  const Abonnes(
+      Nom: 'James',
+      AgenceFavoris: 'Menoua',
+      BilletsCommandes: 21,
+      TypeUtilisateur: "Normal"),
+  const Abonnes(
+      Nom: 'Lorita',
+      AgenceFavoris: 'Menoua',
+      BilletsCommandes: 18,
+      TypeUtilisateur: "Normal"),
+  const Abonnes(
+      Nom: 'Anton',
+      AgenceFavoris: 'Finex',
+      BilletsCommandes: 32,
+      TypeUtilisateur: "premium"),
+  const Abonnes(
+      Nom: 'Salina',
+      AgenceFavoris: 'Finex',
+      BilletsCommandes: 24,
+      TypeUtilisateur: "Normal"),
+  const Abonnes(
+      Nom: 'Sunday',
+      AgenceFavoris: 'Moghamo',
+      BilletsCommandes: 42,
+      TypeUtilisateur: "premium"),
+  const Abonnes(
+      Nom: 'Alva',
+      AgenceFavoris: 'Binam Voyage',
+      BilletsCommandes: 47,
+      TypeUtilisateur: "premium"),
+  const Abonnes(
+      Nom: 'Salina',
+      AgenceFavoris: 'Finex',
+      BilletsCommandes: 24,
+      TypeUtilisateur: "Normal"),
+  const Abonnes(
+      Nom: 'Sunday',
+      AgenceFavoris: 'Moghamo',
+      BilletsCommandes: 42,
+      TypeUtilisateur: "premium"),
+  const Abonnes(
+      Nom: 'Alva',
+      AgenceFavoris: 'Binam Voyage',
+      BilletsCommandes: 47,
+      TypeUtilisateur: "premium"),
+  const Abonnes(
+      Nom: 'Sunday',
+      AgenceFavoris: 'Moghamo',
+      BilletsCommandes: 42,
+      TypeUtilisateur: "premium"),
+  const Abonnes(
+      Nom: 'Alva',
+      AgenceFavoris: 'Binam Voyage',
+      BilletsCommandes: 47,
+      TypeUtilisateur: "premium"),
+  const Abonnes(
+      Nom: 'Salina',
+      AgenceFavoris: 'Finex',
+      BilletsCommandes: 24,
+      TypeUtilisateur: "Normal"),
+  const Abonnes(
+      Nom: 'Sunday',
+      AgenceFavoris: 'Moghamo',
+      BilletsCommandes: 42,
+      TypeUtilisateur: "premium"),
+  const Abonnes(
+      Nom: 'Alva',
+      AgenceFavoris: 'Binam Voyage',
+      BilletsCommandes: 47,
+      TypeUtilisateur: "premium"),
+];
